@@ -4,3 +4,4 @@
     <img alt="" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogabrielgaia&layout=compact&theme=buefy&count_private=true"/>
   </a>
 </div>
+
